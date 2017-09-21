@@ -1,14 +1,14 @@
 {
-  "name": "videojs-ttml",
-  "version": "0.2.2",
-  "description": "TTML TextTrack plugin for video.js",
+  "name": "videojs-frankly-ttml",
+  "version": "1.0",
+  "description": "Frankly TTML TextTrack plugin for video.js",
   "repository": {
       "type": "git",
-      "url": "https://github.com/SRGSSR/videojs-ttml.git"
+      "url": "https://github.com/skmelendez/videojs-frankly-ttml.git"
   },
-  "main": "./dist/videojs-ttml.js",
-  "keywords": ["videojs", "videojs-plugin", "ttml", "texttracks"],
-  "author": "SRGSSR",
+  "main": "./dist/videojs-frankly-ttml.js",
+  "keywords": ["videojs", "videojs-plugin", "ttml", "texttracks", "frankly", "frankly inc"],
+  "author": "Steven Melendez",
   "license": "MIT",
   "dependencies": {
     "video.js": "^5.8.5",

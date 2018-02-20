@@ -1,4 +1,4 @@
-# Videojs TTML Plugin
+# VideoJS TTML Plugin
 
 > A TTML plugin for video.js for use with TTML by converting TTML to VTTCue.
 
